@@ -74,7 +74,7 @@ Model Context Protocol (MCP) 是一种用于大型语言模型与上下文交互
 ## 社区与交流
 
 - [GitHub Discussions](https://github.com/tangdun2025/awesome_mcp_resources/discussions)
-- [Discord 社区](https://discord.gg/awesome-mcp)
+- [Discord 社区](https://discord.gg/HADFprpu)
 
 ## 项目维护者
 
