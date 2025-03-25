@@ -49,15 +49,12 @@ Model Context Protocol (MCP) 是一种用于大型语言模型与上下文交互
 - 调试与可视化工具
 - 性能测试与评估工具
 
-## 如何贡献
+### 🤝 如何贡献
 
-我们欢迎并鼓励社区成员为本项目贡献高质量的 MCP 相关资源。贡献方式如下：
-
-1. Fork 本仓库
-2. 创建您的特性分支 (`git checkout -b feature/amazing-resource`)
-3. 提交您的更改 (`git commit -m 'Add some amazing MCP resource'`)
-4. 推送到分支 (`git push origin feature/amazing-resource`)
-5. 创建 Pull Request
+欢迎通过以下方式参与共建：
+1. 提交PR（请按`资源名称 | 链接 | 简短说明`格式）
+2. 创建Issue推荐新资源
+3. Star⭐并Watch👁️项目获取更新
 
 ### 贡献指南
 
