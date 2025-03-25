@@ -1,0 +1,1 @@
+# awesome_mcp_resources
