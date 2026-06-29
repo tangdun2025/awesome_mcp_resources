@@ -31,6 +31,7 @@ Model Context Protocol (MCP) 是一种用于大型语言模型与上下文交互
 ### 📚 MCP 学习资料
 
 - MCP 入门教程与指南
+- [AI全书 MCP 入门课程](https://aibook.ren/archives/mcp-course) - 面向中文开发者的 MCP 入门与 Agent 工程学习资源
 - 技术文档与规范解读
 - 视频课程与讲座
 - 学术论文与研究成果
