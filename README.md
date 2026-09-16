@@ -27,6 +27,8 @@ Model Context Protocol (MCP) 是一种用于大型语言模型与上下文交互
 - 基于 MCP 的开发工具
 - 上下文管理与优化方案
 - MCP 兼容性测试工具
+- OrkasVideoStudio | [https://github.com/Orkas-AI/Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | 本地优先的 TypeScript CLI 与 MCP 视频工具包，让编程 Agent 从可编辑 plan.json 时间线合成、剪辑、生成并组装视频。
+
 
 ### 📚 MCP 学习资料
 
