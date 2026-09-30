@@ -26,6 +26,7 @@ Model Context Protocol (MCP) 是一种用于大型语言模型与上下文交互
 - MCP 实现与框架
 - 基于 MCP 的开发工具
 - 上下文管理与优化方案
+- Hyperconsciousness | [GitHub](https://github.com/louis030195/hyperconsciousness) | 开发者 Alpha 阶段的 Rust CLI 和 MCP 知识库，用于保存加密的追加式代理笔记，支持限定范围和有效期的访问授权。
 - MCP 兼容性测试工具
 
 ### 📚 MCP 学习资料
