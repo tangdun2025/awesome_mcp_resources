@@ -23,6 +23,7 @@ Model Context Protocol (MCP) 是一种用于大型语言模型与上下文交互
 
 ### 🚀 MCP 开源项目
 
+- Agent Payment Node | [官方仓库](https://github.com/nuanu-ai/agent-payment-node) | 面向 AI Agent 的 macOS 本地 CLI 与 stdio MCP 支付运行时，签名需所有者在前台终端批准。
 - MCP 实现与框架
 - 基于 MCP 的开发工具
 - 上下文管理与优化方案
