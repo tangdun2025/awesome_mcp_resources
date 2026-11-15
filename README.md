@@ -27,6 +27,7 @@ Model Context Protocol (MCP) 是一种用于大型语言模型与上下文交互
 - 基于 MCP 的开发工具
 - 上下文管理与优化方案
 - MCP 兼容性测试工具
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - 面向独立音乐人巡演与场馆检索的托管 MCP 服务器
 
 ### 📚 MCP 学习资料
 
